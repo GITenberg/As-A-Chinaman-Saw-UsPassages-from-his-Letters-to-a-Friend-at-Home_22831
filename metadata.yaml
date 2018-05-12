@@ -1,0 +1,25 @@
+_repo: As-A-Chinaman-Saw-UsPassages-from-his-Letters-to-a-Friend-at-Home_22831
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Gratton, Henry Pearson
+    gutenberg_agent_id: '25569'
+    url: http://www.gutenberg.org/2009/agents/25569
+description: ''
+gutenberg_issued: '2007-10-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'United States -- Social life and customs'
+- !lcc 'E151'
+title: 'As A Chinaman Saw Us: Passages from His Letters to a Friend at Home'
+url: http://www.gutenberg.org/ebooks/22831
